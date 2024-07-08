@@ -1,0 +1,24 @@
+.container{
+    margin-top:10px;
+    margin-left: 350px;
+    padding-left: 200px;
+   }
+   .card{
+    border: 2px solid black;
+   }
+   .card-title{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+   }
+   .card-text{
+    text-align: center;
+    font-size: large;
+    color: rgb(48, 118, 65);
+   }
+    .btn{
+        margin-left: 90px;
+    color: rgb(215, 151, 72);
+    background-color: black;
+
+}
